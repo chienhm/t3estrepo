@@ -50,6 +50,35 @@
 		</g>
 	</defs>
 
-	<use x="5" y="5" xlink:href="#a4" />
-	<use x="25" y="25" xlink:href="#a4" />
+			<defs>
+		<g id="a5">
+			<use x="5" y="5" xlink:href="#a4" />
+			<use x="10" y="10" xlink:href="#a4" />
+			<use x="15" y="15" xlink:href="#a4" />
+			<use x="20" y="20" xlink:href="#a4" />
+			<use x="25" y="25" xlink:href="#a4" />
+			<use x="30" y="30" xlink:href="#a4" />
+			<use x="35" y="35" xlink:href="#a4" />
+			<use x="40" y="40" xlink:href="#a4" />
+			<use x="45" y="45" xlink:href="#a4" />
+			<use x="50" y="50" xlink:href="#a4" />
+		</g>
+	</defs>
+
+			<defs>
+		<g id="a6">
+			<use x="5" y="5" xlink:href="#a5" />
+			<use x="10" y="10" xlink:href="#a5" />
+			<use x="15" y="15" xlink:href="#a5" />
+			<use x="20" y="20" xlink:href="#a5" />
+			<use x="25" y="25" xlink:href="#a5" />
+			<use x="30" y="30" xlink:href="#a5" />
+			<use x="35" y="35" xlink:href="#a5" />
+			<use x="40" y="40" xlink:href="#a5" />
+			<use x="45" y="45" xlink:href="#a5" />
+			<use x="50" y="50" xlink:href="#a5" />
+		</g>
+	</defs>
+	<use x="5" y="5" xlink:href="#a6" />
+	<use x="25" y="25" xlink:href="#a6" />
 </svg>
