@@ -1,8 +1,8 @@
 {
-    "url": "https://exp.kh0rack.io.vn/test.yaml",
+    "url": "https://raw.githubusercontent.com/chienhm/t3estrepo/refs/heads/main/test.yaml",
     "urls": [
         {
-            "url": "https://exp.kh0rack.io.vn/test.yaml",
+            "url": "https://raw.githubusercontent.com/chienhm/t3estrepo/refs/heads/main/test.yaml",
             "name": "Foo"
         }
     ]
